@@ -1,0 +1,20 @@
+{
+  "name": "gdzparser",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "GG_PG",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.24",
+    "osmosis": "^1.1.10",
+    "request": "^2.88.0",
+    "resolve": "^1.10.1",
+    "tress": "^1.1.4"
+  }
+}
